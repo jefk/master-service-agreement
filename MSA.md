@@ -25,7 +25,7 @@ I have the experience and ability to perform the services you need from me and I
 ###Getting down to the nitty gritty
 
 ####Billable hours
-I want the time that I am billing you for to be as productive as possible. I will bill for time that I am actively making software, designing solutions, learning about technologies that I will use in your project, or discussing the project with you.
+I want billable time to be as productive as possible. In general I will bill for time that I spend improving your product. That includes time actively making software, designing solutions, learning about technologies that I will use in your project, or discussing the project with you.
 
 ####Additional development
 Any additional development needed above and beyond what we have agreed to in a statement of work (SOW) must be accompanied by an additional SOW which I will be happy to provide upon request. I retain the right to refuse additional work that is not specifically outlined in a SOW that we have agreed to.
