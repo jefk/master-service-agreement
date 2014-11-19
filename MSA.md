@@ -20,7 +20,7 @@ You ([CLIENT COMPANY]) are hiring me ([MY COMPANY]) for software development. Of
 
 As my customer, you have the power and ability to enter into this contract on behalf of your company or organization. You agree to provide me with everything that I need to complete the project including text, images and other information as and when I need it, and in the format that I ask for. You agree to review my work, provide feedback and sign-off approval in a timely manner. You also agree to stick to the payment schedule set out in the statement of work.
 
-I have the experience and ability to perform the services you need from me and I will carry them out in a professional and timely manner. Along the way I will endeavor to meet all the deadlines set but I can't be responsible for a missed launch date or a deadline if you have been late in supplying materials or have not approved or signed off our work on-time at any stage. On top of this I will also maintain the confidentiality of any information that you give us.
+I have the experience and ability to perform the services you need from me and I will carry them out in a professional and timely manner. Along the way I will endeavor to meet all the deadlines set but I can't be responsible for a missed launch date or a deadline if you have been late in supplying materials or have not approved or signed off our work on-time at any stage. On top of this I will also maintain the confidentiality of any information that you give me.
 
 ###Getting down to the nitty gritty
 
@@ -38,7 +38,7 @@ Together you and I will maintain a prioritized list of tasks that need to be com
 
 ###Legal stuff
 
-Although I test extensively, I can't guarantee that the functions contained in any application will always be error-free and so I can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this application and any other web pages, even if you have advised us of the possibilities of such damages.
+Although I test extensively, I can't guarantee that the functions contained in any application will always be error-free and so I can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this application and any other web pages, even if you have advised me of the possibilities of such damages.
 
 If any provision of this agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
 
@@ -46,7 +46,7 @@ Phew.
 
 ####Copyrights
 
-You guarantee to us that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide us for inclusion in the application are either owned by your good selves, or that you have permission to use them.
+You guarantee that any elements of text, graphics, photos, designs, trademarks, or other artwork that you provide for inclusion in the application are either owned by your good selves, or that you have permission to use them.
 
 When I receive your final payment, copyright is automatically assigned as follows:
 
@@ -64,9 +64,9 @@ I am sure you understand how important it is as a small business that you pay th
 
 ####Payment Schedule
 
-We bill every other week on Friday and all invoices are payable upon receipt.
+I bill every other week on Friday and all invoices are payable upon receipt.
 
-Any payments not received within 7 days will be considered late. Work will until the late payment is received. If a payment is late I have the right to withhold code or other work that hasn't been paid for, or to stop any serives such as website hosting I have set up for your project. If payment is late twice during the project, I retain the right to ask for prepayment of hours or to end the project, whichever is deemed more fitting for the situation.
+Any payments not received within 7 days will be considered late. Work will until the late payment is received. If a payment is late I have the right to withhold code or other work that hasn't been paid for, or to stop any services such as website hosting I have set up for your project. If payment is late twice during the project, I retain the right to ask for prepayment of hours or to end the project, whichever is deemed more fitting for the situation.
 
 If either party chooses to end the project, it must be done in writing. Please keep in mind that the deposit (if applicable) will be forfeited and any work that has been paid for up to that point will be turned over to you.
 
