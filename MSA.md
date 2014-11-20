@@ -66,7 +66,7 @@ I am sure you understand how important it is as a small business that you pay th
 
 I bill every other week on Friday and all invoices are payable upon receipt.
 
-Any payments not received within 7 days will be considered late. Work will until the late payment is received. If a payment is late I have the right to withhold code or other work that hasn't been paid for, or to stop any services such as website hosting I have set up for your project. If payment is late twice during the project, I retain the right to ask for prepayment of hours or to end the project, whichever is deemed more fitting for the situation.
+Any payments not received within 7 days will be considered late. Work will stop until the late payment is received. If a payment is late I have the right to withhold code or other work that hasn't been paid for, or to stop any services such as website hosting I have set up for your project. If payment is late twice during the project, I retain the right to ask for prepayment of hours or to end the project, whichever is deemed more fitting for the situation.
 
 If either party chooses to end the project, it must be done in writing. Please keep in mind that the deposit (if applicable) will be forfeited and any work that has been paid for up to that point will be turned over to you.
 
