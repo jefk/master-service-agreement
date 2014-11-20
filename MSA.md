@@ -54,7 +54,7 @@ When I receive your final payment, copyright is automatically assigned as follow
 You own text content, photographs and other data you provided, unless someone else owns them. You own the code that I produce during billable hours and that is in the scope of a SOW that we agreed to. If I am hosting any code or other assets, I am happy to work with you to transfer those assets.
 
 ####What I own
-I retain the rights to any intangible assets created during the scope of your project. These intangible assets include ideas, system designs, and general purpose algorithms. You can certainly use these in your product. I grant you an irrevocable license to use these intangible assets for all time.
+I retain the rights to any generic intellectual capital assets created during the scope of your project. This intellectual capital includes ideas, system designs, and general purpose algorithms. You can certainly use these in your product. I grant you a free, irrevocable license to use this intellectual capital for all time.
 
 I love to show off my work and share what I have learned with other people, so I also reserve the right to display and link to your completed project as part of my portfolio and to write about the project on web sites, in magazine articles and in books as well as speak about them publicly. Of course I’m happy to keep this information to myself until your project goes live.
 
@@ -74,7 +74,7 @@ If either party chooses to end the project, it must be done in writing. Please k
 
 Just like a parking ticket, you cannot transfer this contract to anyone else without our permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
-In the case that this agreement, or any SOW under this agreement, is disputed, we agree to settle disputes in arbitration rather than court.
+In the case that this agreement, or any SOW under this agreement, is disputed, we agree to resolve disputes in arbitration rather than court. The arbitration will be binding, and resolved by American Arbitration Association.
 
 Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of New York courts.
 
