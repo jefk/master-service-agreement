@@ -82,7 +82,7 @@ Although the language is simple, the intentions are serious and this contract is
 
 
 __________________________________________________
-Signed by [MY NAME], contractor
+Signed by [MY NAME], Consultant
 
 
 __________________________________________________
